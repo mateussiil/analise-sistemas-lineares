@@ -1,0 +1,82 @@
+PWD c:\Users\mateu\OneDrive\Área de Trabalho\ECP\2020.1\analise de sistemas lineares\Codigos\latex
+INPUT C:\Users\mateu\AppData\Local\MiKTeX\2.9\miktex\data\le\pdftex\pdflatex.fmt
+INPUT c:\Users\mateu\OneDrive\Área de Trabalho\ECP\2020.1\analise de sistemas lineares\Codigos\latex\Teste2.tex
+OUTPUT c:\Users\mateu\OneDrive\Área de Trabalho\ECP\2020.1\analise de sistemas lineares\Codigos\latex\Teste2.log
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\base\article.cls
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\base\article.cls
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\base\size10.clo
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\base\size10.clo
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\base\fontenc.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\base\fontenc.sty
+INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\jknappen\ec\ecrm1000.tfm
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\base\inputenc.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\base\inputenc.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\lm\lmodern.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\lm\lmodern.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\base\textcomp.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\base\textcomp.sty
+INPUT C:\Users\mateu\AppData\Roaming\MiKTeX\2.9\tex\latex\lastpage\lastpage.sty
+INPUT C:\Users\mateu\AppData\Roaming\MiKTeX\2.9\tex\latex\lastpage\lastpage.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\geometry\geometry.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\geometry\geometry.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\graphics\keyval.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\graphics\keyval.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\iftex\ifvtex.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\iftex\ifvtex.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\iftex\iftex.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\iftex\iftex.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\geometry\geometry.cfg
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\geometry\geometry.cfg
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsmath.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsmath.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amstext.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amstext.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsgen.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsgen.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsbsy.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsbsy.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsopn.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsopn.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\l3backend\l3backend-pdfmode.def
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\l3backend\l3backend-pdfmode.def
+OUTPUT c:\Users\mateu\OneDrive\Área de Trabalho\ECP\2020.1\analise de sistemas lineares\Codigos\latex\Teste2.aux
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\lm\t1lmr.fd
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\lm\t1lmr.fd
+INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\lm\ec-lmr10.tfm
+INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\lm\ec-lmr12.tfm
+INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\lm\ec-lmbx12.tfm
+INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\lm\ec-lmr12.tfm
+INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\lm\ec-lmbx12.tfm
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\lm\ot1lmr.fd
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\lm\ot1lmr.fd
+INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\lm\rm-lmr10.tfm
+INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\lm\rm-lmr7.tfm
+INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\lm\rm-lmr5.tfm
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\lm\omllmm.fd
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\lm\omllmm.fd
+INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\lm\lmmi10.tfm
+INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\lm\lmmi7.tfm
+INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\lm\lmmi5.tfm
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\lm\omslmsy.fd
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\lm\omslmsy.fd
+INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\lm\lmsy10.tfm
+INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\lm\lmsy7.tfm
+INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\lm\lmsy5.tfm
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\lm\omxlmex.fd
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\lm\omxlmex.fd
+INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\lm\lmex10.tfm
+OUTPUT c:\Users\mateu\OneDrive\Área de Trabalho\ECP\2020.1\analise de sistemas lineares\Codigos\latex\Teste2.pdf
+INPUT C:\Users\mateu\AppData\Local\MiKTeX\2.9\pdftex\config\pdftex.map
+INPUT c:\Users\mateu\OneDrive\Área de Trabalho\ECP\2020.1\analise de sistemas lineares\Codigos\latex\Teste2.aux
+INPUT C:\Program Files\MiKTeX 2.9\fonts\enc\dvips\lm\lm-ec.enc
+INPUT C:\Program Files\MiKTeX 2.9\fonts\enc\dvips\lm\lm-mathit.enc
+INPUT C:\Program Files\MiKTeX 2.9\fonts\enc\dvips\lm\lm-rm.enc
+INPUT C:\Program Files\MiKTeX 2.9\fonts\enc\dvips\lm\lm-mathex.enc
+INPUT C:\Program Files\MiKTeX 2.9\fonts\type1\public\lm\lmbx12.pfb
+INPUT C:\Program Files\MiKTeX 2.9\fonts\type1\public\lm\lmbx12.pfb
+INPUT C:\Program Files\MiKTeX 2.9\fonts\type1\public\lm\lmex10.pfb
+INPUT C:\Program Files\MiKTeX 2.9\fonts\type1\public\lm\lmex10.pfb
+INPUT C:\Program Files\MiKTeX 2.9\fonts\type1\public\lm\lmmi10.pfb
+INPUT C:\Program Files\MiKTeX 2.9\fonts\type1\public\lm\lmmi10.pfb
+INPUT C:\Program Files\MiKTeX 2.9\fonts\type1\public\lm\lmr10.pfb
+INPUT C:\Program Files\MiKTeX 2.9\fonts\type1\public\lm\lmr10.pfb

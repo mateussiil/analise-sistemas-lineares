@@ -1,0 +1,74 @@
+\documentclass[a4paper,12pt,twoside]{article}%
+\usepackage[T1]{fontenc}%
+\usepackage[utf8]{inputenc}%
+\usepackage{lmodern}%
+\usepackage{textcomp}%
+\usepackage{lastpage}%
+\usepackage{geometry}%
+\geometry{tmargin=20mm,bmargin=20mm,lmargin=25mm,rmargin=25mm}%
+\usepackage{graphicx}%
+\usepackage{ragged2e}%
+\usepackage{amsmath}%
+%
+%
+%
+\begin{document}%
+\normalsize%
+
+
+\begin{figure}[h!]%
+\centering%
+\includegraphics[width=70px]{C:/Users/mateu/OneDrive/Área de Trabalho/ECP/2020.1/analise de sistemas lineares/Codigos/latex/imagens/ufma.png}%
+\end{figure}
+
+%
+\begin{center}%
+{\large \rm \textbf {Universidade Federal do Maranhão} \linebreak}%
+{\large \rm \textbf {Coordenação do Curso de Engenharia da Computação} \linebreak}%
+\end{center}%
+\section{The fancy stuff}%
+\label{sec:Thefancystuff}%
+\subsection{Correct matrix equations}%
+\label{subsec:Correctmatrixequations}%
+\[%
+\begin{pmatrix}%
+2&3&4\\%
+0&0&1\\%
+0&0&2%
+\end{pmatrix} \begin{pmatrix}%
+100\\%
+10\\%
+20%
+\end{pmatrix} = \begin{pmatrix}%
+310\\%
+20\\%
+40%
+\end{pmatrix}%
+\]
+
+%
+\subsection{Alignat math environment}%
+\label{subsec:Alignatmathenvironment}%
+\begin{alignat*}{2}%
+\frac{a}{b} &= 0 \\%
+\begin{pmatrix}%
+2&3&4\\%
+0&0&1\\%
+0&0&2%
+\end{pmatrix}%
+\begin{pmatrix}%
+100\\%
+10\\%
+20%
+\end{pmatrix}%
+&=%
+\begin{pmatrix}%
+310\\%
+20\\%
+40%
+\end{pmatrix}%
+\end{alignat*}
+
+%
+$\int_{a}^{b} x^2 \,dx$%
+\end{document}

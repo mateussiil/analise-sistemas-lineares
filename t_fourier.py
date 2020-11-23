@@ -14,7 +14,8 @@ def t_fourier(y, N, T=1):
         List: amplitudes
     """
     fft = np.fft.fft(y) # Calcula a transformada de fourier 
-    amplitudes = np.abs(fft) # Calcula a amplitude de fourier , ajustado os valores de amostras
-    f = np.fft.fftfreq(np.size(fft), 1/N)
+    f = np.fft.fftfreq(N, T)
+    amplitudes = np.abs(fft)# Calcula a amplitude de fourier , ajustado os valores de amostras
+    
     return fft, f, amplitudes
 
